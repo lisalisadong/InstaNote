@@ -1,5 +1,9 @@
 # InstaNote
 
+[PennAppsXII Hackathon Devpost Page](http://devpost.com/software/instanote)
+
+Screenshots, details and demo are available [here](https://lisalisadong.github.io/).
+
 ## Inspiration
 The inspiration is from the latest version of Google translator. Google translator nowadays has a great feature that can translate everything through the camera. As a user, you do not have to type everything into the mobile in order to get a translation. All you need to do is use your camera and swipe select the area you want to be translated.
 
